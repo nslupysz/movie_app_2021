@@ -1,3 +1,3 @@
 ## Movie app
 
-course
+react coding course
